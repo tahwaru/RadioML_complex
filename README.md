@@ -17,5 +17,6 @@ References
 
 [1] J. A. Barrachina, C. Ren, C. Morisseau, G. Vieillard, J. P. Ovarlez, “Complex-Valued vs. Real-Valued Neural Networks for Classification Perspectives: 
 An Example on Non-Circular Data,” 2019, https://arxiv.org/abs/2009.08340
+
 [2] R. Chakraborty, Y. Xing and S. X. Yu, " SurReal: Fréchet Mean and Distance Transform for Complex-Valued Deep Learning,"2019,  
 https://arxiv.org/abs/1906.10048,
